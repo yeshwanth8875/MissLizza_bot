@@ -8,7 +8,7 @@
 Can be found on telegram as [𝐋𝐈𝐙𝐙𝐀](https://t.me/MissLizza_bot)
 ).
 
-The Support group can be reached out to at [𝐋𝐈𝐙𝐙𝐀 Support](https://t.me/Lizzasupport), where you can ask for help about [Ξ L I Z Λ B Ξ TH](https://t.me/Misstezza_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available 
+The Support group can be reached out to at [𝐋𝐈𝐙𝐙𝐀 Support](https://t.me/Lizzasupport), where you can ask for help about [𝐋𝐈𝐙𝐙𝐀](https://t.me/Misstezza_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available 
 News channel as at [𝐋𝐈𝐙𝐙𝐀](https://t.me/TG_BotZ) 
 
 ## How to setup/deploy.
