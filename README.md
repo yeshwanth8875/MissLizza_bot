@@ -1,22 +1,21 @@
 ![𝐋𝐈𝐙𝐙𝐀](https://telegra.ph/file/4ef8896a0a0ed55e779d0.jpg)
-# Ξ L I Z Λ B Ξ TH
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Kidiloskahyper45/tezzaKid_bot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/rosebakthan)
+# 𝐋𝐈𝐙𝐙𝐀
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yeshwanth885/MissLizza_bot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates groups!](https://img.shields.io/badge/Join%20group -!-red)](https:https://t.me/Lizzasupport)
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kidiloskahyper45/tezzKid_bot.git)
  modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Ξ L I Z Λ B Ξ TH](https://t.me/Misstezza_bot)
+Can be found on telegram as [𝐋𝐈𝐙𝐙𝐀](https://t.me/Misstezza_bot)
 ).
 
-The Support group can be reached out to at [Ξ L I Z Λ B Ξ TH Support](https://t.me/TG_BotZ), where you can ask for help about [Ξ L I Z Λ B Ξ TH](https://t.me/Misstezza_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
-
+The Support group can be reached out to at [𝐋𝐈𝐙𝐙𝐀 Support](https://t.me/Lizzasupport), where you can ask for help about [Ξ L I Z Λ B Ξ TH](https://t.me/Misstezza_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available 
 News channel as at [Ξ L I Z Λ B Ξ TH](https://t.me/TG_BotZ) 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @TG_BotZ to your own support chat
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/Kidiloskahyper45/)
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/yeshwanth8875/)
 )
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
@@ -31,7 +30,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kidiloskahyper45/tezzaKid_bot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yeshwanth885/MissLizza_bot.git)
 
 </details>  
 <details>
@@ -171,7 +170,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tezzaKid_bot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MissLizza_bot.git) 
 
 
 ## Credits
