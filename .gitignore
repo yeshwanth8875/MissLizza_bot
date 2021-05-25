@@ -20,3 +20,6 @@ saitama.session-journal
 updates.txt
 *.exe
 senkuPyro
+# Telethon session cache
+*.session
+*.session-journal
